@@ -1,6 +1,8 @@
-# buscaminas_en_javascript
+# Buscaminas
 
-Se crea este buscaminas para enseñarle cómo se hace a mi hija de nueve años.
+Buscaminas para enseñar a niños. 
 
-Es por tanto muy sencillo, y primitivo. No uso métodos, ni TypeScript, ni eventos del DOM difíciles de explicar a un niño.
+Original: 
+
+ * https://github.com/eContento/buscaminas_en_javascript
 
